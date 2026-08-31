@@ -1,0 +1,9 @@
+venv/
+.env
+venv.txt
+database/backup.sql
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.pth
